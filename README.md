@@ -22,6 +22,7 @@
 ![table](https://github.com/user-attachments/assets/375e655a-9547-4c82-94af-6099981aca78)
 
 Доступ в интернет есть
+
 ![ping 8ки](https://github.com/user-attachments/assets/9c6d48f6-248d-46b2-8d1f-8e928b0f2ac6)
 
 

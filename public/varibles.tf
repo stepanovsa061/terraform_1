@@ -2,7 +2,6 @@
 
 variable "token" {
   type        = string
-  default     = "y0_AgAAAABvVAmAAATuwQAAAADsIagyYwP7PEmkR4mLzkLrnsMZmNPULYg"
   description = "OAuth-token; https://cloud.yandex.ru/docs/iam/concepts/authorization/oauth-token"
 }
 

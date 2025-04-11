@@ -16,3 +16,16 @@
 - Создать в VPC subnet с названием private, сетью 192.168.20.0/24.
 - Создать route table. Добавить статический маршрут, направляющий весь исходящий трафик private сети в NAT-инстанс.
 - Создать в этой приватной подсети виртуалку с внутренним IP, подключиться к ней через виртуалку, созданную ранее, и убедиться, что есть доступ к интернету.
+
+![YC](https://github.com/user-attachments/assets/d1db3522-a358-45f9-8a70-ccc2db99d5fc)
+
+![table](https://github.com/user-attachments/assets/375e655a-9547-4c82-94af-6099981aca78)
+
+Доступ в интернет есть
+![ping 8ки](https://github.com/user-attachments/assets/9c6d48f6-248d-46b2-8d1f-8e928b0f2ac6)
+
+
+![ping VM2](https://github.com/user-attachments/assets/53ae8279-beda-4d66-85dc-5568ada15165)
+
+
+

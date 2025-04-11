@@ -2,8 +2,6 @@
 
 variable "token" {
   type        = string
-#  default     = 
-  description = "OAuth-token; https://cloud.yandex.ru/docs/iam/concepts/authorization/oauth-token"
 }
 
 variable "cloud_id" {
